@@ -1,5 +1,5 @@
 # ThinkPad-E560-Hackintosh
-ThinkPad E560(i5-6200U+HD520)黑苹果配置文件 BigSur请自测，作者苟住Catalina最后一个版本不放手。
+ThinkPad E560(i5-6200U+HD520)黑苹果配置文件 BigSur请自测，Catalina版本经长期测试，除开关机之后不会断电，其他功能完成度99%。
 # Lenovo Thinkpad E560 (OpenCore bootloader)
 
 [![macOS](https://img.shields.io/badge/macOS-Big%20Sur-blue)](https://developer.apple.com/documentation/macos-release-notes)
