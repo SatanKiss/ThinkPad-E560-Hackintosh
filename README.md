@@ -14,6 +14,18 @@ This repo contains the files and scripts to install macOS on the Lenovo E560💻
 ## Note
 注意苹果三码及机型信息，请自行下载OpenCore Configurator或者其他工具自行调整
 
+## 项目克隆方式
+- Catalina版本
+    ```shell
+    git clone -b catalina https://github.com/SatanKiss/ThinkPad-E560-Hackintosh.git
+    git pull 
+    ```
+- Monterey版本
+    ```shell
+    git clone -b monterey https://github.com/SatanKiss/ThinkPad-E560-Hackintosh.git
+    git pull  
+    ```
+
 ## Hardware Status 💻
 
 | Type           | Spec                                | Status|
