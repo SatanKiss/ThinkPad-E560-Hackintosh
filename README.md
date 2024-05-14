@@ -8,6 +8,12 @@ ThinkPad E560(i5-6200U+HD520)黑苹果配置文件 BigSur请自测，作者苟�
 
 This repo contains the files and scripts to install macOS on the Lenovo E560💻 family.
 
+## 试用范围
+根据macOS Catalina版本和Monterey版本进行精简，有对应的分支名，使用时请从对应的分支进行下载并适配个人电脑。
+
+## Note
+注意苹果三码及机型信息，请自行下载OpenCore Configurator或者其他工具自行调整
+
 ## Hardware Status 💻
 
 | Type           | Spec                                | Status|
